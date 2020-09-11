@@ -1,0 +1,4 @@
+name: gwarmstrong-projects
+dependencies:
+  - flask
+  - python=3
